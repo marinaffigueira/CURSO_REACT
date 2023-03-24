@@ -4,10 +4,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hello World React!</h1>
-      <h2>Emmet Funcionou!</h2>
+      <div class="App-color">
+      <h1>Aprendendo React</h1>
+      </div>
+      <h2>Bóra</h2>
     </div>
   );
 }
 
 export default App;
+
